@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - Vote Counts</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <header>
+            <h1>Election Dashboard</h1>
+            <p>Real-time vote counts and validation status.</p>
+        </header>
+
+        <section id="vote-summary">
+            <h2>Vote Summary</h2>
+            <div id="vote-counts" class="grid-container">
+                </div>
+            <canvas id="voteChart"></canvas>
+        </section>
+
+        <section id="error-reporting">
+            <h2>Validation Errors</h2>
+            <div id="validation-errors" class="error-container">
+                </div>
+        </section>
+    </div>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="admin_dashboard.js"></script>
+</body>
+</html>

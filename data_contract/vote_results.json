@@ -1,0 +1,134 @@
+{
+  "validVotes": [
+    {
+      "voterId": "IYE2403440",
+      "candidateId": "ganesh_iyer",
+      "candidateDetails": {
+        "englishName": "Ganesh Iyer",
+        "tamilName": "கணேஷ் ஐயர்",
+        "candidateId": "ganesh_iyer",
+        "party": "Indian National Congress",
+        "constituency": "Thanjavur",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EJbNYvzCRK-GUxAGzctJRGQNLgS7LI9p5A&s"
+      },
+      "salt": "e88f586d7f3e262a3887cfadea7f4d4b",
+      "timestamp": "1745942826049"
+    },
+    {
+      "voterId": "IYE2403441",
+      "candidateId": "arjun_reddy",
+      "candidateDetails": {
+        "englishName": "Arjun Reddy",
+        "tamilName": "அர்ஜுன் ரெட்டி",
+        "candidateId": "arjun_reddy",
+        "party": "Progressive Reform Congress",
+        "constituency": "Chennai South",
+        "imageURL": "https://media.istockphoto.com/id/1328406437/vector/elephant-republican-party-modern-logo.jpg?s=2048x2048&w=is&k=20&c=04XytmP7MQAPMMETSW-HyfH05CPmlwyOa1Sju9etQ3Q="
+      },
+      "salt": "17938b283a15201d56ed7ff34da7b7af",
+      "timestamp": "1745960396680"
+    },
+    {
+      "voterId": "IYE2403460",
+      "candidateId": "ganesh_iyer",
+      "candidateDetails": {
+        "englishName": "Ganesh Iyer",
+        "tamilName": "கணேஷ் ஐயர்",
+        "candidateId": "ganesh_iyer",
+        "party": "Indian National Congress",
+        "constituency": "Thanjavur",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EJbNYvzCRK-GUxAGzctJRGQNLgS7LI9p5A&s"
+      },
+      "salt": "d8ae0f3c116824b4736ac2676e8b397d",
+      "timestamp": "1745935533138"
+    }
+  ],
+  "errors": [
+    {
+      "voterId": "IYE2403455",
+      "error": "The operation failed for an operation-specific reason"
+    }
+  ],
+  "candidates": {
+    "akila_devi": {
+      "englishName": "Akila Devi",
+      "tamilName": "அகிலா தேவி",
+      "candidateId": "akila_devi",
+      "party": "Secular Democratic Movement",
+      "constituency": "Salem North",
+      "imageURL": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30144633/149.png"
+    },
+    "arjun_reddy": {
+      "englishName": "Arjun Reddy",
+      "tamilName": "அர்ஜுன் ரெட்டி",
+      "candidateId": "arjun_reddy",
+      "party": "Progressive Reform Congress",
+      "constituency": "Chennai South",
+      "imageURL": "https://media.istockphoto.com/id/1328406437/vector/elephant-republican-party-modern-logo.jpg?s=2048x2048&w=is&k=20&c=04XytmP7MQAPMMETSW-HyfH05CPmlwyOa1Sju9etQ3Q="
+    },
+    "divya_sharma": {
+      "englishName": "Divya Sharma",
+      "tamilName": "திவ்யா சர்மா",
+      "candidateId": "divya_sharma",
+      "party": "All India Progressive Party",
+      "constituency": "Vellore South",
+      "imageURL": "https://media.istockphoto.com/id/2109488692/vector/european-parliament-symbol-and-stars-european-elections-vector-poster.jpg?s=612x612&w=0&k=20&c=gvMHik1HCvgoYwGxUG2VC2uqPgYS4qriAuyOcIzENQA="
+    },
+    "ganesh_iyer": {
+      "englishName": "Ganesh Iyer",
+      "tamilName": "கணேஷ் ஐயர்",
+      "candidateId": "ganesh_iyer",
+      "party": "Indian National Congress",
+      "constituency": "Thanjavur",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EJbNYvzCRK-GUxAGzctJRGQNLgS7LI9p5A&s"
+    },
+    "keerthi_nair": {
+      "englishName": "Keerthi Nair",
+      "tamilName": "கீர்த்தி நாயர்",
+      "candidateId": "keerthi_nair",
+      "party": "United People's Party",
+      "constituency": "Coimbatore East",
+      "imageURL": "https://e7.pngegg.com/pngimages/542/51/png-clipart-pirate-party-germany-pirate-party-germany-european-pirate-party-political-party-corporate-identity-text-trademark.png"
+    },
+    "meena_srinivasan": {
+      "englishName": "Meena Srinivasan",
+      "tamilName": "மீனா ஸ்ரீனிவாசன்",
+      "candidateId": "meena_srinivasan",
+      "party": "Democratic Action Forum",
+      "constituency": "Tiruchirappalli West",
+      "imageURL": "https://e7.pngegg.com/pngimages/851/304/png-clipart-czech-republic-social-democracy-czech-social-democratic-party-political-party-solidarity-text-orange-thumbnail.png"
+    },
+    "priya_sharma": {
+      "englishName": "Priya Sharma",
+      "tamilName": "பிரியா சர்மா",
+      "candidateId": "priya_sharma",
+      "party": "National Unity Front",
+      "constituency": "Salem Central",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxrDieVIE-CMKWZpvrYwJnmboiIqWcwV7qA&s"
+    },
+    "ramesh_kumar": {
+      "englishName": "Ramesh Kumar",
+      "tamilName": "ரமேஷ் குமார்",
+      "candidateId": "ramesh_kumar",
+      "party": "People's Progressive Alliance",
+      "constituency": "Salem West",
+      "imageURL": "https://balkaninsight.com/wp-content/uploads/2016/11/vmro-dpmne.jpg"
+    },
+    "suresh_gopi": {
+      "englishName": "Suresh Gopi",
+      "tamilName": "சுரேஷ் கோபி",
+      "candidateId": "suresh_gopi",
+      "party": "People's Empowerment Front",
+      "constituency": "Erode North",
+      "imageURL": "https://pes.eu/wp-content/uploads/2023/11/Logo_of_the_Belarusian_Social_Democratic_Party_Peoples_Assembly.svg.png"
+    },
+    "vijay_kumar": {
+      "englishName": "Vijay Kumar",
+      "tamilName": "விஜய் குமார்",
+      "candidateId": "vijay_kumar",
+      "party": "Social Justice League",
+      "constituency": "Madurai Central",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-a7Vju7NKb110AaK-RggJqPQsL1Ma5LmKA&s"
+    }
+  }
+}
